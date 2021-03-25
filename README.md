@@ -23,5 +23,5 @@ Instruções:
 - A url usada para teste: "http://localhost:8080/LojinhaDoGrau/index.jsf".
 
 *Usuários:*
-- Login: jonh1036@hotmail.com     Senha: 123    Administrador?: Não
-- Login: ronaldo01@gmail.com      Senha: 123    Administrador?: Não
+- Login: jonh1036@hotmail.com     Senha: 123
+- Login: ronaldo01@gmail.com      Senha: 123
